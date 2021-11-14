@@ -1,1 +1,1 @@
-# tetris
+python3 main.py
